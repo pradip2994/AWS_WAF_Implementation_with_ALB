@@ -73,7 +73,9 @@ Select **SQL database**.
 ![Screenshot 2023-11-28 050653](https://github.com/pradip2994/AWS_WAF_Implementation_with_ALB/assets/124191442/e59d76a4-3af9-4780-82bc-0347a4e3ae52)
 
 ### Geo-location-rule
+I have created Windows EC2 instance in Singapur Region and tested for geo location.
 ![Capture](https://github.com/pradip2994/AWS_WAF_Implementation_with_ALB/assets/124191442/02f9fa93-02eb-42a8-871b-1feb4b78cf60)
+## Ip Address which i have highlighted is of my EC2 which i have created, other IPs are unknown IPs, it's looks like someone was trying to access ALB from another country.
 ![Screenshot 2023-11-28 053509](https://github.com/pradip2994/AWS_WAF_Implementation_with_ALB/assets/124191442/4f64bb5a-01eb-40ba-96dd-563a158b223a)
 
 ### Query-String
